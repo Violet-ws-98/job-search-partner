@@ -13,7 +13,7 @@ description: 协助有工作经验的求职者梳理履历与动机、评估岗�
 
 - 了解履历、能力、求职动机：读 [profile.md](references/profile.md)。
 - 比较或评分岗位：读 [job-fit.md](references/job-fit.md)。
-- 改针对性简历：读 [resume.md](references/resume.md)。
+- 改针对性简历：读 [resume.md](references/resume.md)。默认保留原简历全部任职记录的公司、职位和起止时间；弱相关经历可缩短描述，不因与JD无关而删除或合并任职记录。只有用户明确要求删减任职记录或仅输出局部内容时才调整范围。
 - 模拟面试、优化回答、提炼记忆链：读 [interview.md](references/interview.md)。
 - 整理真实面试、准备下一轮：读 [debrief.md](references/debrief.md)。
 - 写入文件或在线表格：另读 [artifacts.md](references/artifacts.md)。

@@ -1,4 +1,5 @@
+# Skill package version: 0.1.1 | Updated: 2026-10-27
 interface:
-  display_name: "求职协作"
+  display_name: "用 AI 给自己找个班上"
   short_description: "从履历与动机出发，评估岗位、定制简历、模拟面试并整理口语记忆链"
   default_prompt: "使用 $job-search-partner，根据我的实际经历和求职诉求，协助我推进当前阶段的求职任务。"

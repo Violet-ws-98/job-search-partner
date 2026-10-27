@@ -1,0 +1,74 @@
+{
+  "package_version": "0.1.1",
+  "release_date": "2026-10-27",
+  "files": {
+    ".gitignore": {
+      "package_version": "0.1.1",
+      "sha256": "a41f6cd5c9c4cae382fda548bfe892f39bc3054a06bff448604653f106ec35bb"
+    },
+    "CHANGELOG.md": {
+      "package_version": "0.1.1",
+      "sha256": "63aa6fa418af61a90eb3579a34b961f7bc34f17873284762ce3cd22d666165a0"
+    },
+    "LICENSE": {
+      "package_version": "0.1.1",
+      "sha256": "99ddcca44fd496d68125e173b3f9509b345262d44d7e955d1f7d117030543009"
+    },
+    "README.md": {
+      "package_version": "0.1.1",
+      "sha256": "3baba9172c191264a03d8d349d76f3986b3c6f9052cba7f87b910c739acfcfd2"
+    },
+    "SKILL.md": {
+      "package_version": "0.1.1",
+      "sha256": "2730b09402c8cffc1544e8c8c48d10f263f96f10305f724bca0c59ebd908cdb6"
+    },
+    "VERSION": {
+      "package_version": "0.1.1",
+      "sha256": "80447316529fc62014fbaa047fb67c51ac30e32830cda370405349d8d66d196c"
+    },
+    "agents/openai.yaml": {
+      "package_version": "0.1.1",
+      "sha256": "16cb95c4efabbcfe79a3d4f4939ae550fbaf8f29c95cb4344bfcd6c29e41d9b7"
+    },
+    "assets/debrief-template.csv": {
+      "package_version": "0.1.1",
+      "sha256": "a8a17c7977eb5b09831f6001d230be9d153addee04631c0b6ba5c041ca2c65df"
+    },
+    "assets/interview-template.csv": {
+      "package_version": "0.1.1",
+      "sha256": "149dcbca1fa9280585422a9e0cd2ddccc6fc9ec34533aceafd5aa96bf5e32f7f"
+    },
+    "assets/job-fit-template.csv": {
+      "package_version": "0.1.1",
+      "sha256": "e970e002daf55a76ae3be9292c10f949dfb327fc22c16b860b7a140979537973"
+    },
+    "assets/profile-template.md": {
+      "package_version": "0.1.1",
+      "sha256": "a683c03106463f6f687506898f3281393670d1fc3d2a5b7d9615925f77641218"
+    },
+    "references/artifacts.md": {
+      "package_version": "0.1.1",
+      "sha256": "9cb4e5bfe3fabbfad8f8d4b290f4890ce121088ba48e3f923fb779cfa46607bf"
+    },
+    "references/debrief.md": {
+      "package_version": "0.1.1",
+      "sha256": "5d6dc0a397e662878abc52907ff4edd49fe23780095d1acc8a52bc608bb41324"
+    },
+    "references/interview.md": {
+      "package_version": "0.1.1",
+      "sha256": "c47e50ad9bc11a9cebacc17cd078098fe966e950e233dead94ab2fff90de01eb"
+    },
+    "references/job-fit.md": {
+      "package_version": "0.1.1",
+      "sha256": "2d5567e0afc45891a2385672762f4389aac6cd99871dbdf037fad4f614ee0ff8"
+    },
+    "references/profile.md": {
+      "package_version": "0.1.1",
+      "sha256": "bc20ffae0e5e6fbc0093b280506e2505e71cdae8cd3f4b28d524ff5d5966bbb3"
+    },
+    "references/resume.md": {
+      "package_version": "0.1.1",
+      "sha256": "70b1b15147fa668f99136be32cfa7519f5aaa8a6b7261ac5869b4423d0e8a45d"
+    }
+  }
+}

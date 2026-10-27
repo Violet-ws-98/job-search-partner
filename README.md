@@ -1,4 +1,6 @@
-# 求职协作 · Job Search Partner
+# 用 AI 给自己找个班上 · Job Search Partner
+
+> 技能包版本：0.1.1 · 更新日期：2026-10-27
 
 面向有工作经验的求职者的 AI skill：从真实经历和求职诉求出发，评估岗位、定制简历、练习面试，并根据真实面试反馈继续调整。
 
@@ -69,3 +71,11 @@ git clone https://github.com/Violet-ws-98/job-search-partner.git "${CODEX_HOME:-
 ## 许可
 
 本项目采用 [MIT License](LICENSE)，可使用、修改和分发。
+
+## 版本与更新追踪
+
+当前版本以 `VERSION` 为准，更新记录见 [CHANGELOG.md](CHANGELOG.md)。查询已安装版本时，可以让 AI 读取本地技能目录里的 `VERSION` 和 `SKILL.md` 的 `metadata.version`；不要仅询问网上的最新版本。
+
+`release-manifest.json` 为每个发布文件记录所属技能包版本及 SHA-256 校验值，包括 CSV 模板和许可证；清单自身不参与自校验。版本标记表示来源版本，文件校验值用于识别本地修改或混装。用户修改本地技能后应说明“基于 v0.1.1 的本地修改版”，不能仅凭版本号认定与发布版完全一致。
+
+维护发布时，统一更新 `VERSION`、技能元数据、Markdown 版本标记和 YAML 版本注释，记录变更，再重新生成文件清单并核对全部文件。小修复增加补丁版本，新增能力增加次版本，不兼容变更增加主版本；GitHub 发布时为该版本创建同名标签，例如 `v0.1.1`。

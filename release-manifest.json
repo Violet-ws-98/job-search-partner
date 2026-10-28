@@ -1,74 +1,78 @@
 {
-  "package_version": "0.1.1",
-  "release_date": "2026-10-27",
+  "package_version": "0.2.0",
+  "release_date": "2026-10-28",
   "files": {
     ".gitignore": {
-      "package_version": "0.1.1",
+      "package_version": "0.2.0",
       "sha256": "a41f6cd5c9c4cae382fda548bfe892f39bc3054a06bff448604653f106ec35bb"
     },
     "CHANGELOG.md": {
-      "package_version": "0.1.1",
-      "sha256": "63aa6fa418af61a90eb3579a34b961f7bc34f17873284762ce3cd22d666165a0"
+      "package_version": "0.2.0",
+      "sha256": "f942ec28ed275f8f6b650cf17b7a8c708831305e6bba3a27e9a35d915d9ae3f9"
     },
     "LICENSE": {
-      "package_version": "0.1.1",
+      "package_version": "0.2.0",
       "sha256": "99ddcca44fd496d68125e173b3f9509b345262d44d7e955d1f7d117030543009"
     },
     "README.md": {
-      "package_version": "0.1.1",
-      "sha256": "3baba9172c191264a03d8d349d76f3986b3c6f9052cba7f87b910c739acfcfd2"
+      "package_version": "0.2.0",
+      "sha256": "4105d6a884c9de7945761059448e6732ab08fb94e9a30755279dd536866001c7"
     },
     "SKILL.md": {
-      "package_version": "0.1.1",
-      "sha256": "2730b09402c8cffc1544e8c8c48d10f263f96f10305f724bca0c59ebd908cdb6"
+      "package_version": "0.2.0",
+      "sha256": "10ad0e1de9f7a8de9a3eaedd619a68611e5f9cd541a0113dc58b5e8de7b9cbe8"
     },
     "VERSION": {
-      "package_version": "0.1.1",
-      "sha256": "80447316529fc62014fbaa047fb67c51ac30e32830cda370405349d8d66d196c"
+      "package_version": "0.2.0",
+      "sha256": "1f930dd1f133c1f97a94fe3acb8db34372cf4c01ffdb2b3ff4ca72f9494121e9"
     },
     "agents/openai.yaml": {
-      "package_version": "0.1.1",
-      "sha256": "16cb95c4efabbcfe79a3d4f4939ae550fbaf8f29c95cb4344bfcd6c29e41d9b7"
+      "package_version": "0.2.0",
+      "sha256": "1e1fa3811041ba1cab7f8032708769a85e7673ca06da9b1d7815f9f36c90aaa3"
     },
     "assets/debrief-template.csv": {
-      "package_version": "0.1.1",
+      "package_version": "0.2.0",
       "sha256": "a8a17c7977eb5b09831f6001d230be9d153addee04631c0b6ba5c041ca2c65df"
     },
     "assets/interview-template.csv": {
-      "package_version": "0.1.1",
+      "package_version": "0.2.0",
       "sha256": "149dcbca1fa9280585422a9e0cd2ddccc6fc9ec34533aceafd5aa96bf5e32f7f"
     },
     "assets/job-fit-template.csv": {
-      "package_version": "0.1.1",
+      "package_version": "0.2.0",
       "sha256": "e970e002daf55a76ae3be9292c10f949dfb327fc22c16b860b7a140979537973"
     },
     "assets/profile-template.md": {
-      "package_version": "0.1.1",
-      "sha256": "a683c03106463f6f687506898f3281393670d1fc3d2a5b7d9615925f77641218"
+      "package_version": "0.2.0",
+      "sha256": "4d08112ec263a98a40acf629bae01db68a50b1d5bbf40884f52c35e5066c5a34"
     },
     "references/artifacts.md": {
-      "package_version": "0.1.1",
-      "sha256": "9cb4e5bfe3fabbfad8f8d4b290f4890ce121088ba48e3f923fb779cfa46607bf"
+      "package_version": "0.2.0",
+      "sha256": "401fb29aa0003274f03f42eceeb54ca49389979611d3878d584ddf51b1f1c99f"
     },
     "references/debrief.md": {
-      "package_version": "0.1.1",
-      "sha256": "5d6dc0a397e662878abc52907ff4edd49fe23780095d1acc8a52bc608bb41324"
+      "package_version": "0.2.0",
+      "sha256": "218d5ac90662ba4a4efd983f12baca7f18acc6fdb3f7f99a28601b72c9bb217a"
     },
     "references/interview.md": {
-      "package_version": "0.1.1",
-      "sha256": "c47e50ad9bc11a9cebacc17cd078098fe966e950e233dead94ab2fff90de01eb"
+      "package_version": "0.2.0",
+      "sha256": "bbda4ce9d03c2a2da60d7551c8d793b3759d7eb27811c80a47eda9f6ec1f547a"
     },
     "references/job-fit.md": {
-      "package_version": "0.1.1",
-      "sha256": "2d5567e0afc45891a2385672762f4389aac6cd99871dbdf037fad4f614ee0ff8"
+      "package_version": "0.2.0",
+      "sha256": "a181d45b4875fcae19c40ede3e2adcfe6e4eeb07897821aa7d0a7da6e635de39"
     },
     "references/profile.md": {
-      "package_version": "0.1.1",
-      "sha256": "bc20ffae0e5e6fbc0093b280506e2505e71cdae8cd3f4b28d524ff5d5966bbb3"
+      "package_version": "0.2.0",
+      "sha256": "42ee21ad834e05968440e34edbb103a306827e6ccb10d0d11cb40ef4997891b5"
     },
     "references/resume.md": {
-      "package_version": "0.1.1",
-      "sha256": "70b1b15147fa668f99136be32cfa7519f5aaa8a6b7261ac5869b4423d0e8a45d"
+      "package_version": "0.2.0",
+      "sha256": "f687158ce6eff9a2166958d67439555c86551bad9f1668e1f8fc487e9139ae84"
+    },
+    "references/start.md": {
+      "package_version": "0.2.0",
+      "sha256": "e3dca4db14515e6cb54a50c7a16c6505cc9fc791fbf7f428f7d1a666f467a3be"
     }
   }
 }

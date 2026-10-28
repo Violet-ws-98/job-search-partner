@@ -1,4 +1,4 @@
-# Skill package version: 0.1.1 | Updated: 2026-10-27
+# Skill package version: 0.2.0 | Updated: 2026-10-28
 interface:
   display_name: "用 AI 给自己找个班上"
   short_description: "从履历与动机出发，评估岗位、定制简历、模拟面试并整理口语记忆链"
